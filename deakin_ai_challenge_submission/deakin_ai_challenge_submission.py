@@ -48,6 +48,7 @@ if __name__=="__main__":
 
     # Reading test images.    
     files = []
+    images = []
     for file in os.listdir(input_dir):
         if file.endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
             img = image.load_img(os.path.join(input_dir, file), 

@@ -2,7 +2,7 @@
 
 ![](images/Simpsons_cast.png)
 
-In particular, the aim of the Deakin Simpsons challenge 2020 is to detect simpson characters individually from pictures using a machine learning model. Specifically, your goal is to detect the following characters:
+The aim of the Deakin Simpsons challenge 2020 is to detect simpson characters individually from pictures using a machine learning model. Specifically, your goal is to detect the following characters:
 
 1. [Abraham grampa simpson](https://en.wikipedia.org/wiki/Grampa_Simpson)
 2. [Apu nahasapeemapetilon](https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon)

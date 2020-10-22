@@ -50,7 +50,7 @@ Please fork this repository. Then, click here to open the Notebook in Google Col
 Just follow the instructions!
 
 
-**References:**
+# References
 
 - [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36)
 

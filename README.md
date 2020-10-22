@@ -53,3 +53,21 @@ Then, follow the instructions!
 - [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36)
 
 
+
+# Acknowledgement
+
+Congratulation on building your model and submitting to CodaLab. We hope that your model will achieve a high accuracy on the testset.
+
+**Mohamed Reda Bouadjenek**
+
+**Lecturer of Applied Artificial Intelligence**
+
+**School of Information Technology, Faculty of Sci Eng & Built Env**
+
+**Deakin University**
+
+**Locked Bag 20000, Geelong, VIC 3220**
+
+**reda.bouadjenek@deakin.edu.au**
+
+**www.deakin.edu.au**

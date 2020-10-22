@@ -44,8 +44,10 @@ In the following, we will take you through  a 6-step process to build a simple m
 7. `Submission:` The seventh and last step will take you through the submission process.
 
 # Do you want to try?
-Click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
-Then, follow the instructions!
+
+Please fork this repository. Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
+
+Just follow the instructions!
 
 
 **References:**

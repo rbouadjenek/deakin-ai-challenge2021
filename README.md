@@ -58,6 +58,15 @@ Please fork this repository. Then, click here to open the Notebook in Google Col
 
 Just follow the instructions!
 
+# Questions?
+
+- Please first go through all the pages in this competition for complete information.
+- If you have further questions, please post them on the Forum tab.
+
+We wish you all the best!
+
+
+
 
 # References
 

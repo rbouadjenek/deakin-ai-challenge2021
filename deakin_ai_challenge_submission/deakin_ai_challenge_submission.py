@@ -1,0 +1,68 @@
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#  Copyright (c) 2020. Reda Bouadjenek, Deakin University                      +
+#     Email:  reda.bouadjenek@deakin.edu.au                                    +
+#                                                                              +
+#  Licensed under the Apache License, Version 2.0 (the "License");             +
+#   you may not use this file except in compliance with the License.           +
+#    You may obtain a copy of the License at:                                  +
+#                                                                              +
+#                 http://www.apache.org/licenses/LICENSE-2.0                   +
+#                                                                              +
+#    Unless required by applicable law or agreed to in writing, software       +
+#    distributed under the License is distributed on an "AS IS" BASIS,         +
+#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  +
+#    See the License for the specific language governing permissions and       +
+#    limitations under the License.                                            +
+#                                                                              +
+# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+import sys, os, h5py
+import numpy as np
+import tensorflow as tf
+from keras.preprocessing import image
+from tensorflow.keras import models
+from tensorflow.python.keras.saving import hdf5_format
+from tensorflow.keras import layers
+from tensorflow import keras
+
+if __name__=="__main__":
+    if len(sys.argv)==1:
+        input_dir = '.'
+        output_dir = '.'
+    else:
+        input_dir = os.path.abspath(sys.argv[1])
+        output_dir = os.path.abspath(sys.argv[2])
+        
+    print("Using input_dir: " + input_dir)
+    print("Using output_dir: " + output_dir)
+    print(sys.version)
+    print("Tensorflow version: " + tf.__version__)
+
+    # Loading the model.
+    model = 'model.h5'
+    with h5py.File(model, mode='r') as f:
+        class_names = f.attrs['class_names']
+        image_size = f.attrs['image_size']
+        model_loaded = hdf5_format.load_model_from_hdf5(f)
+
+    # Reading test images.    
+    files = []
+    for file in os.listdir(input_dir):
+        if file.endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
+            img = image.load_img(os.path.join(input_dir, file), 
+                target_size=image_size)
+            x = image.img_to_array(img)
+            x = np.expand_dims(x, axis=0)
+            images.append(x)
+            files.append(file)
+    images = np.vstack(images)
+    
+    # Making predictions!
+    batch_size = 16
+    y_proba = model_loaded.predict(images, batch_size=batch_size)
+    y_predict = np.argmax(y_proba,axis=1)
+    # Writting predictions to file.
+    with open(os.path.join(output_dir, 'answer.txt'), 'w') as result_file:
+        for i in range(len(files)):    
+            result_file.write(files[i] + ',' + class_names[y_predict[i]] + '\n')

@@ -56,8 +56,6 @@ Then, follow the instructions!
 
 # Acknowledgement
 
-Congratulation on building your model and submitting to CodaLab. We hope that your model will achieve a high accuracy on the testset.
-
 **Mohamed Reda Bouadjenek**
 
 **Lecturer of Applied Artificial Intelligence**

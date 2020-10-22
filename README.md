@@ -56,7 +56,7 @@ Just follow the instructions!
 
 
 
-# Acknowledgement
+# Acknowledgment
 
 **Mohamed Reda Bouadjenek**
 

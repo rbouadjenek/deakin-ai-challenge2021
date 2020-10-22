@@ -43,6 +43,15 @@ In the following, we will take you through  a 6-step process to build a simple m
 6. `Monitoring:` The sixth step consists of monitoring the traning process to investigate possible overfitting.
 7. `Submission:` The seventh and last step will take you through the submission process.
 
+# Timeline
+
+- xx.11.20 Contest and Phase 1 Begin (Validation Leaderboard opens)
+- xx.12.20 Phase 2 Begin (Testing Leaderboard opens)
+- x.xx.20 Last Shot & Contest End
+- xx.xx.20 Semi-Finalists Announcement (top six teams on the Testing Leaderboard)
+- xx.xx.20 Report & Code Due
+- xx.xx.20 Winners Announcement
+
 # Do you want to try?
 
 Please fork this repository. Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 

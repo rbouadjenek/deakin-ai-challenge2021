@@ -7,26 +7,48 @@
 
 The aim of the Deakin Simpsons challenge 2020 is to detect simpson characters individually from pictures using a machine learning model. Specifically, your goal is to detect the following characters:
 
-1. [Abraham grampa simpson](https://en.wikipedia.org/wiki/Grampa_Simpson)
-2. [Apu nahasapeemapetilon](https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon)
-3. [Bart simpson](https://en.wikipedia.org/wiki/Bart_Simpson)
-4. [Charles montgomery burns](https://en.wikipedia.org/wiki/Mr._Burns)
-5. [chief wiggum](https://en.wikipedia.org/wiki/Chief_Wiggum)
-6. [Comic book guy](https://en.wikipedia.org/wiki/Comic_Book_Guy)
-7. [Edna krabappel](https://en.wikipedia.org/wiki/Edna_Krabappel)
-8. [Homer simpson](https://en.wikipedia.org/wiki/Homer_Simpson)
-9. [Kent brockman](https://en.wikipedia.org/wiki/Kent_Brockman)
-10. [Krusty the clown](https://en.wikipedia.org/wiki/Krusty_the_Clown)
-11. [Lenny leonard](https://simpsons.fandom.com/wiki/Lenny_Leonard)
-12. [Lisa simpson](https://en.wikipedia.org/wiki/Lisa_Simpson)
-13. [Marge simpson](https://en.wikipedia.org/wiki/Marge_Simpson)
-14. [Mayor quimby](https://en.wikipedia.org/wiki/Mayor_Quimby)
-15. [Milhouse van houten](https://en.wikipedia.org/wiki/Milhouse_Van_Houten)
-16. [Moe szyslak](https://en.wikipedia.org/wiki/Moe_Szyslak)
-17. [Ned flanders](https://en.wikipedia.org/wiki/Ned_Flanders)
-18. [Nelson muntz](https://en.wikipedia.org/wiki/Nelson_Muntz)
-19. [Principal skinner](https://en.wikipedia.org/wiki/Principal_Skinner)
-20. [Sideshow bob](https://en.wikipedia.org/wiki/Sideshow_Bob)
+<table>
+<tr>
+  <td> 1. <a href="https://en.wikipedia.org/wiki/Grampa_Simpson" target="_blank" > Abraham grampa Simpson</a> </td>
+    <td>11.  <a href="https://simpsons.fandom.com/wiki/Lenny_Leonard" target="_blank" > Lenny Leonard </a> </td>
+</tr>
+<tr>
+      <td> 2. <a href="https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon" target="_blank" > Apu Nahasapeemapetilon</a> </td>
+    <td>12.  <a href="https://en.wikipedia.org/wiki/Lisa_Simpson" target="_blank" > Lisa Simpson </a> </td>
+</tr>
+<tr>
+      <td> 3. <a href="https://en.wikipedia.org/wiki/Bart_Simpson" target="_blank" > Bart Simpson</a> </td>
+    <td>13.  <a href="https://en.wikipedia.org/wiki/Marge_Simpson" target="_blank" > Marge Simpson </a> </td>
+</tr>
+<tr>
+      <td> 4. <a href="https://en.wikipedia.org/wiki/Mr._Burns" target="_blank" > Charles Montgomery burns</a> </td>
+    <td>14.  <a href="https://en.wikipedia.org/wiki/Mayor_Quimby" target="_blank" > Mayor Quimby </a> </td>
+</tr>
+<tr>
+      <td> 5. <a href="https://en.wikipedia.org/wiki/Chief_Wiggum" target="_blank" > Chief Wiggum</a> </td>
+    <td>15.  <a href="https://en.wikipedia.org/wiki/Milhouse_Van_Houten" target="_blank" > Milhouse Van Houten </a> </td>
+</tr>
+<tr>
+      <td> 6. <a href="https://en.wikipedia.org/wiki/Comic_Book_Guy" target="_blank" > Comic Book Guy</a> </td>
+    <td>16.  <a href="https://en.wikipedia.org/wiki/Moe_Szyslak" target="_blank" > Moe Szyslak </a> </td>
+</tr>
+<tr>
+      <td> 7. <a href="https://en.wikipedia.org/wiki/Edna_Krabappel" target="_blank" > Edna Krabappel</a> </td>
+    <td>17.  <a href="https://en.wikipedia.org/wiki/Ned_Flanders" target="_blank" > Ned Flanders </a> </td>
+</tr>
+<tr>
+      <td> 8. <a href="https://en.wikipedia.org/wiki/Homer_Simpson" target="_blank" > Homer Simpson</a> </td>
+    <td>18.  <a href="https://en.wikipedia.org/wiki/Nelson_Muntz" target="_blank" > Nelson Muntz </a> </td>
+</tr>
+<tr>
+      <td> 9. <a href="https://en.wikipedia.org/wiki/Kent_Brockman" target="_blank" > Kent Brockman</a> </td>
+    <td>19.  <a href="https://en.wikipedia.org/wiki/Principal_Skinner" target="_blank" > Principal Skinner </a> </td>
+</tr>
+<tr>
+      <td> 10. <a href="https://en.wikipedia.org/wiki/Krusty_the_Clown" target="_blank" > Krusty the Clown</a> </td>
+    <td>20.  <a href="https://en.wikipedia.org/wiki/Sideshow_Bob" target="_blank" > Sideshow bob </a> </td>
+</tr>
+</table>
 
 
 To achieve this task, you will be given a data set that consists of 19,548 images to train your model and tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation techniques.

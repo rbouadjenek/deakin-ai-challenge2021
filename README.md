@@ -29,7 +29,7 @@ The aim of the Deakin Simpsons challenge 2020 is to detect simpson characters in
 20. [Sideshow bob](https://en.wikipedia.org/wiki/Sideshow_Bob)
 
 
-To achieve this task, you will be given a data set that consists of 19,548 images to train your model and tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation.
+To achieve this task, you will be given a data set that consists of 19,548 images to train your model and tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation techniques.
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)  on a private test set that we have directly collected and labeled from TV show episodes.

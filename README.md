@@ -1,6 +1,9 @@
 # Welcome to the Deakin Simpsons Challenge 2020
 
-![](images/Simpsons_cast.png)
+
+<p align="center">
+  <img src="images/Simpsons_cast.png">
+</p>
 
 The aim of the Deakin Simpsons challenge 2020 is to detect simpson characters individually from pictures using a machine learning model. Specifically, your goal is to detect the following characters:
 
@@ -89,3 +92,5 @@ We wish you all the best!
 **reda.bouadjenek@deakin.edu.au**
 
 **www.deakin.edu.au**
+
+<img style="float: left;" src="images/deakin2.png" width="200" >

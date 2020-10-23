@@ -36,7 +36,7 @@ We evaluate the performance of your model using the [Accuracy](https://scikit-le
 Once the evaluation completed, your entry will appear on the leaderboard to see your performance against other competitors.
 
 
-In the following, we will take you through  a 6-step process to build a simple model to perform this task as follows:
+In the Notebook that we provide for starting, we will take you through  a 6-step process to build a simple model to perform this task as follows:
 
 1. `Setup the environment:` Thie first step consists of setting the environement and downloading the data.
 2. `Preprocessing:` The second step is a preprocessing step that consists of resizing, plitting, and piping the input data.

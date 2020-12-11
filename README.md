@@ -79,7 +79,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Prizes and Sponsors
 
-The winners of the Deakin Simpsons Challenge 2020 await non-cash prizes worth AUDXYZ provided by YYZ and YYZ. The prizes will be distributed among the participants as follows:
+The winners of the Deakin Simpsons Challenge 2020 await prizes worth AUDXYZ provided by YYZ and YYZ. The prizes will be distributed among the participants as follows:
 
 - The 1st Place receives a prize of AUDXXX.
 - The 2nd Place receives a prize of AUDXXX.

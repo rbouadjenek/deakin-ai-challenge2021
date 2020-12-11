@@ -77,6 +77,21 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - xx.xx.20 Report & Code Due
 - xx.xx.20 Winners Announcement
 
+# Prizes and Sponsors
+
+The winners of the Deakin Simpsons Challenge 2020 await non-cash prizes worth 2.500€ provided by YYZ and YYZ. The prizes will be distributed among the participants as follows:
+
+- The 1st Place receives a prize of AUDXXX.
+- The 2nd Place receives a prize of AUDXXX.
+- The 3rd Place receives a prize of AUDXXX.
+
+In order to be eligible for any award, the semi-finalists are required to submit the code and solution report (4 pages) to the organizers by the stipulated deadline. The submitted codes and reports may be inspected to check the validity of the solution. The reports will eventually be made publicly available on the website.
+
+The complete list of sponsors includes:
+- XYZ.
+- XYZ.
+- XYZ.
+
 # Do you want to try?
 
 Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork). Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 

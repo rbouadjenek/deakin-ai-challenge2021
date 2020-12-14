@@ -70,12 +70,12 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Timeline
 
-- xx.11.20 Contest and Phase 1 Begin (Validation Leaderboard opens)
-- xx.12.20 Phase 2 Begin (Testing Leaderboard opens)
-- xx.xx.20 Last Shot & Contest End
-- xx.xx.20 Semi-Finalists Announcement (top six teams on the Testing Leaderboard)
-- xx.xx.20 Report & Code Due
-- xx.xx.20 Winners Announcement
+- xx.xx.21 Contest and Phase 1 Begin (Validation Leaderboard opens)
+- xx.xx.21 Phase 2 Begin (Testing Leaderboard opens)
+- xx.xx.21 Last Shot & Contest End
+- xx.xx.21 Semi-Finalists Announcement (top six teams on the Testing Leaderboard)
+- xx.xx.21 Report & Code Due
+- xx.xx.21 Winners Announcement
 
 # Prizes and Sponsors
 

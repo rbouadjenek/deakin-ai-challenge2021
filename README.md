@@ -86,7 +86,7 @@ The winners of the Deakin Simpsons Challenge 2021 await prizes worth AUDXYZ prov
 - The 2nd Place receives a prize of AUDXYZ.
 - The 3rd Place receives a prize of AUDXYZ.
 
-In order to be eligible for any award, the semi-finalists are required to submit the code and solution report (4 pages) to the organizers by the stipulated deadline using [easychair](https://easychair.org/conferences/?conf=deakinsimpsonschalle). The submitted codes and reports may be inspected to check the validity of the solution. The reports will eventually be made publicly available on the website.
+In order to be eligible for any award, the semi-finalists are required to submit the code and solution report (4 pages) to the organizers by the stipulated deadline using [easychair](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021). The submitted codes and reports may be inspected to check the validity of the solution. The reports will eventually be made publicly available on the website.
 
 The complete list of sponsors includes:
 - XYZ.

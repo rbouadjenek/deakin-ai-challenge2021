@@ -53,7 +53,7 @@ The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons charac
 </table>
 
 
-To achieve this task, you will be given a data set that consists of 19,548 images to train your model and tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation techniques.
+To achieve this task, you will be given a data set that consists of 19,548 labeled images to train your model and tune your hyperparameters. However, feel free to extend it by collecting new images or by using data augmentation techniques.
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)  on a private test set that we have directly collected and labeled from TV show episodes.
@@ -80,18 +80,18 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Prizes and Sponsors
 
-The winners of the Deakin Simpsons Challenge 2021 await prizes worth AUDXYZ provided by YYZ and YYZ. The prizes will be distributed among the participants as follows:
+The winners of the **Deakin Simpsons Challenge 2021** await prizes worth **AUDXYZ** provided by **YYZ** and **YYZ**. The prizes will be distributed among the participants as follows:
 
-- The 1st Place receives a prize of AUDXYZ.
-- The 2nd Place receives a prize of AUDXYZ.
-- The 3rd Place receives a prize of AUDXYZ.
+- The 1st Place receives a prize of **AUDXYZ**.
+- The 2nd Place receives a prize of **AUDXYZ**.
+- The 3rd Place receives a prize of **AUDXYZ**.
 
 In order to be eligible for any award, the semi-finalists are required to submit a report, which describes the solution and contains the Github link to the repo of the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The submitted codes and reports may be inspected to check the validity of the solution. The reports will eventually be made publicly available on the website.
 
 The complete list of sponsors includes:
-- XYZ.
-- XYZ.
-- XYZ.
+- **XYZ**.
+- **XYZ**.
+- **XYZ**.
 
 # Do you want to try?
 

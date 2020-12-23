@@ -89,8 +89,8 @@ The winners of the **Deakin Simpsons Challenge 2021** await prizes worth **AUDXY
 In order to be eligible for any award, the semi-finalists are required to:
 
 - 🚨 Achieve at least **80%** accuracy for the test phase.
-- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. 
-- 🚨 Provide a Github link to the repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. The reports will eventually be made publicly available on the website.
+- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
+- 🚨 Provide a Github link to the repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
 
 The complete list of sponsors includes:
 - **XYZ**.

@@ -71,12 +71,12 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 7. `Submission:` The seventh and last step will take you through the submission process.
 
 # Timeline
-- xx.xx.21 Contest and Phase 1 Begin (Validation Leaderboard opens).
-- xx.xx.21 Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- xx.xx.21 Last Shot & Contest End.
-- xx.xx.21 Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- xx.xx.21 Report & Code Due.
-- xx.xx.21 Winners Announcement.
+- xx.xx.21: Contest and Phase 1 Begin (Validation Leaderboard opens).
+- xx.xx.21: Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- xx.xx.21: Last Shot & Contest End.
+- xx.xx.21: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- xx.xx.21: Report & Code Due.
+- xx.xx.21: Winners Announcement.
 
 # Prizes and Sponsors
 

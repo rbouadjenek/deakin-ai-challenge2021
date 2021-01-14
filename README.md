@@ -71,12 +71,12 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 7. `Submission:` The seventh and last step will take you through the submission process.
 
 # Timeline
-- 15.03.21: Contest and Phase 1 Begin (Validation Leaderboard opens).
-- 15.05.21: Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- 22.05.21: Last Shot & Contest End.
-- 23.05.21: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- 05.06.21: Report & Code Due.
-- 17.06.21: Winners Announcement.
+- `15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- `15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- `22.05.21:` Last Shot & Contest End.
+- `23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- `05.06.21:` Report & Code Due.
+- `17.06.21:` Winners Announcement.
 
 # Prizes and Sponsors
 

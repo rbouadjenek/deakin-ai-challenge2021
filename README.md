@@ -97,7 +97,7 @@ The complete list of sponsors includes:
 - **XYZ**.
 - **XYZ**.
 
-# Do you want to try?
+# Are you competitive enough to participate?
 
 Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork). Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
 

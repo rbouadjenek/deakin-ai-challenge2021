@@ -80,11 +80,11 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Prizes and Sponsors
 
-The winners of the **Deakin Simpsons Challenge 2021** await prizes worth **AUDXYZ** provided by **YYZ** and **YYZ**. The prizes will be distributed among the participants as follows:
+The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUDXYZ** provided by **YYZ** and **YYZ**. The prizes will be distributed among the participants as follows:
 
-- The 1st Place receives a prize of **AUDXYZ**.
-- The 2nd Place receives a prize of **AUDXYZ**.
-- The 3rd Place receives a prize of **AUDXYZ**.
+- The 1st Place receives a non-cash prize equivalent of **AUDXYZ**.
+- The 2nd Place receives a non-cash prize equivalent of **AUDXYZ**.
+- The 3rd Place receives a non-cash prize equivalent of **AUDXYZ**.
 
 In order to be eligible for any award, the semi-finalists are required to:
 

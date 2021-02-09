@@ -106,8 +106,9 @@ The complete list of sponsors includes:
 # Organizer
 
 The Deakin Simpsons Challenge 2021 is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/). 
-<img style="float: left;" src="images/deakin2.png" width="200" >
-
+<p>
+  <img style="float: left;" src="images/deakin2.png" width="200" >
+</p>
 
 # Are you competitive enough to participate?
 

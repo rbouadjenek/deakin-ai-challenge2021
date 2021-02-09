@@ -92,10 +92,22 @@ In order to be eligible for any award, the semi-finalists are required to:
 - 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
 - 🚨 Provide a link of the Github repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
 
+The prize money for the challenge is provided by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
+
+  <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
+
+<!---
 The complete list of sponsors includes:
 - **XYZ**.
 - **XYZ**.
 - **XYZ**.
+--->
+
+# Organizer
+
+The Deakin Simpsons Challenge 2021 is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/). 
+<img style="float: left;" src="images/deakin2.png" width="200" >
+
 
 # Are you competitive enough to participate?
 

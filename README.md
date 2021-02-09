@@ -139,6 +139,10 @@ We wish you all the best!
 
 # Acknowledgment
 
+
+
+
+
 **Mohamed Reda Bouadjenek**
 
 **Lecturer of Applied Artificial Intelligence**
@@ -152,5 +156,10 @@ We wish you all the best!
 **reda.bouadjenek@deakin.edu.au**
 
 **www.deakin.edu.au**
+<p>
+  <img style="float: left;" src="images/deakin2.png" width="200" >
+</p>
 
-<img style="float: left;" src="images/deakin2.png" width="200" >
+<p>
+  <a href="https://twitter.com/DeakinAI2021" > <img style="float: left;" src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>
+</p>

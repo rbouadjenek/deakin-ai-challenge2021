@@ -83,8 +83,8 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** provided by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
 
 - The 1st Place receives a non-cash prize equivalent of **AUD500**.
-- The 2nd Place receives a non-cash prize equivalent of **AUD500**.
-- The 3rd Place receives a non-cash prize equivalent of **AUD500**.
+- The 2nd Place receives a non-cash prize equivalent of **AUD300**.
+- The 3rd Place receives a non-cash prize equivalent of **AUD200**.
 
 In order to be eligible for any award, the semi-finalists are required to:
 

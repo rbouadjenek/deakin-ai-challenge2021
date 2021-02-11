@@ -126,6 +126,14 @@ Follow these steps:
 
 We wish you all the best!
 
+# Deakin Simpsons Challenge 2021 Webinar
+
+
+
+JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX:XX PM. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts. Register for the Webinar at: XXXXX
+
+
+
 
 # Questions?
 

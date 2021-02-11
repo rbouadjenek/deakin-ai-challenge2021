@@ -139,6 +139,7 @@ JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX
 
 - Please first go through all the pages in this competition for complete information.
 - If you have further questions, please post them on the Forum tab.
+- Alternatively, you can  contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/).
 
 
 

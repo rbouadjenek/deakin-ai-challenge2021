@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="images/Simpsons_cast.png">
+  <img src="images/Simpsons_cast2.png">
 </p>
 
 The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons characters individually from images using a machine learning model. Specifically, your goal is to identify the following characters:

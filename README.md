@@ -80,7 +80,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Prizes and Sponsors
 
-The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** provided by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
+The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
 
 - The 1st Place receives a non-cash prize equivalent of **AUD500**.
 - The 2nd Place receives a non-cash prize equivalent of **AUD300**.
@@ -94,11 +94,11 @@ In order to be eligible for any award, the semi-finalists are required to:
 
 
 
-The prize money for the challenge is provided by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
+The prize money for the challenge is funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
 
-
+<!---
 <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
-
+--->
 
 
 # Organizer

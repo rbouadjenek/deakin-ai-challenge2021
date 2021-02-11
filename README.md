@@ -78,6 +78,16 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - `05.06.21:` Report & Code Due.
 - `17.06.21:` Winners Announcement.
 
+# Eligibility
+
+The competition is open to all Deakin's students enrolled in a course of the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
+
+- 🚨 Achieve at least **80%** accuracy for the test phase.
+- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
+- 🚨 Provide a link of the Github repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
+
+
+
 # Prizes and Sponsors
 
 The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
@@ -86,16 +96,10 @@ The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes wort
 - The 2nd Place receives a non-cash prize equivalent of **AUD300**.
 - The 3rd Place receives a non-cash prize equivalent of **AUD200**.
 
-In order to be eligible for any award, the semi-finalists are required to:
 
-- 🚨 Achieve at least **80%** accuracy for the test phase.
-- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
-- 🚨 Provide a link of the Github repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
-
-
-
+<!---
 The prize money for the challenge is funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
-
+--->
 <!---
 <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
 --->

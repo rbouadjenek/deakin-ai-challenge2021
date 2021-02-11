@@ -78,55 +78,58 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - `05.06.21:` Report & Code Due.
 - `17.06.21:` Winners Announcement.
 
-# Prizes and Sponsors
+# Eligibility
 
-The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUDXYZ** provided by **YYZ** and **YYZ**. The prizes will be distributed among the participants as follows:
-
-- The 1st Place receives a non-cash prize equivalent of **AUDXYZ**.
-- The 2nd Place receives a non-cash prize equivalent of **AUDXYZ**.
-- The 3rd Place receives a non-cash prize equivalent of **AUDXYZ**.
-
-In order to be eligible for any award, the semi-finalists are required to:
+The competition is open to all Deakin's students enrolled in a course of the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
 
 - 🚨 Achieve at least **80%** accuracy for the test phase.
 - 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
 - 🚨 Provide a link of the Github repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
 
-The prize money for the challenge is provided by **XYZ**.
 
-**[SPONSOR LOGO TO BE ADDED]**
+
+# Prizes and Sponsors
+
+The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
+
+- The 1st Place receives a non-cash prize equivalent of **AUD500**.
+- The 2nd Place receives a non-cash prize equivalent of **AUD300**.
+- The 3rd Place receives a non-cash prize equivalent of **AUD200**.
 
 
 <!---
-The prize money for the challenge is provided by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
-  <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
+The prize money for the challenge is funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/), Australia.
 --->
 <!---
-The complete list of sponsors includes:
-- **XYZ**.
-- **XYZ**.
-- **XYZ**.
+<img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
 --->
+
 
 # Organizer
 
-The Deakin Simpsons Challenge 2021 is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), [Deakin University](https://www.deakin.edu.au/). 
+The Deakin Simpsons Challenge 2021 is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
 <p>
   <img style="float: left;" src="images/deakin2.png" width="200" >
 </p>
 
 # Are you competitive enough to participate?
 
-Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork). Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
+Follow these steps:
 
-Just follow the instructions!
+1. Register to the [CodaLab](https://competitions.codalab.org/accounts/signup/?next=/) platform.
+2. Register to the competition on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5).
+3. You can participate individually or in a team. To find team members, you can post a message on the discussion forum on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, the Deakin course in which they are enrolled, and the name of the team.
+4. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork) and make it **private**. Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
+5. Just follow the instructions!
+
+We wish you all the best!
+
 
 # Questions?
 
 - Please first go through all the pages in this competition for complete information.
 - If you have further questions, please post them on the Forum tab.
 
-We wish you all the best!
 
 
 
@@ -141,7 +144,7 @@ We wish you all the best!
 
 
 
-
+Technical design and development by:
 
 **Mohamed Reda Bouadjenek**
 
@@ -156,9 +159,12 @@ We wish you all the best!
 **reda.bouadjenek@deakin.edu.au**
 
 **www.deakin.edu.au**
+<!---
 <p>
   <img style="float: left;" src="images/deakin2.png" width="200" >
 </p>
+--->
+
 
 <p>
   <a href="https://twitter.com/DeakinAI2021" > <img style="float: left;" src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>

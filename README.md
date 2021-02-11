@@ -82,7 +82,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Eligibility
 
-The competition is open to all Deakin's students enrolled in a course of the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
+The competition is open to all Deakin's students enrolled in a course within the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
 
 - 🚨 Achieve at least **80%** accuracy for the test phase.
 - 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.

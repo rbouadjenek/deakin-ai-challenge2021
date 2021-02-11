@@ -118,12 +118,14 @@ Follow these steps:
 4. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork) and make it **private**. Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
 5. Just follow the instructions!
 
+We wish you all the best!
+
+
 # Questions?
 
 - Please first go through all the pages in this competition for complete information.
 - If you have further questions, please post them on the Forum tab.
 
-We wish you all the best!
 
 
 

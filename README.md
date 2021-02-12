@@ -9,7 +9,22 @@
 
 The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons characters individually from images using  machine learning/deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills. 
 
-Specifically, as participants, your goal is to build a machine learning model to automatically identify the following Simpsons characters:
+
+# Table of Contents
+1. [Technical goal](#introduction)
+2. [Timeline](#Timeline)
+3. [Eligibility](#Eligibility)
+4. [Prizes and Sponsors](#Sponsors)
+5. [Organizer](#Organizer)
+6. [Participate](#participate)
+7. [Webinar](#Webinar)
+8. [Questions](#Questions)
+9. [References](#References)
+10. [Acknowledgment](#Acknowledgment)
+
+# Technical goal <a name="introduction"></a>
+
+As participants, your goal is to build a machine learning model to automatically identify the following Simpsons characters:
 
 <table>
 <tr>
@@ -72,7 +87,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 6. `Monitoring:` The sixth step consists of monitoring the traning process to investigate possible overfitting.
 7. `Submission:` The seventh and last step will take you through the submission process.
 
-# Timeline
+# Timeline <a name="Timeline"></a>
 - `15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
 - `15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
 - `22.05.21:` Last Shot & Contest End.
@@ -80,7 +95,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - `05.06.21:` Report & Code Due.
 - `17.06.21:` Winners Announcement.
 
-# Eligibility
+# Eligibility<a name="Eligibility"></a>
 
 The competition is open to all Deakin's students enrolled in a course within the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
 
@@ -90,7 +105,7 @@ The competition is open to all Deakin's students enrolled in a course within the
 
 
 
-# Prizes and Sponsors
+# Prizes and Sponsors<a name="Sponsors"></a>
 
 The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
 
@@ -107,14 +122,14 @@ The prize money for the challenge is funded by [Deakin University CommUNIty Bank
 --->
 
 
-# Organizer
+# Organizer<a name="Organizer"></a>
 
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
 <p>
   <img style="float: left;" src="images/deakin2.png" width="200" >
 </p>
 
-# Are you competitive enough to participate?
+# Are you competitive enough to participate? <a name="participate"></a>
 
 Follow these steps:
 
@@ -126,7 +141,7 @@ Follow these steps:
 
 We wish you all the best!
 
-# Deakin Simpsons Challenge 2021 Webinar
+# Deakin Simpsons Challenge 2021 Webinar <a name="Webinar"></a>
 
 
 
@@ -135,7 +150,7 @@ JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX
 
 
 
-# Questions?
+# Questions?<a name="Questions"></a>
 
 - Please first go through all the pages in this competition for complete information.
 - If you have further questions, please post them on the Forum tab.
@@ -145,13 +160,13 @@ JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX
 
 
 
-# References
+# References<a name="References"></a>
 
 - [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
 
 
 
-# Acknowledgment
+# Acknowledgment<a name="Acknowledgment"></a>
 
 
 

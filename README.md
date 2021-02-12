@@ -7,7 +7,7 @@
   <img src="images/Simpsons_cast2.png">
 </p>
 
-The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons characters individually from images using a machine learning model. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, to engage in and improve their AI modeling, problem-solving, and team-working skills. 
+The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons characters individually from images using  machine learning/deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, to engage in and improve their AI modeling, problem-solving, and team-working skills. 
 
 Specifically, as participants, your goal is to build a machine learning model to automatically identify the following Simpsons characters:
 

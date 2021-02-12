@@ -122,12 +122,7 @@ The prize money for the challenge is funded by [Deakin University CommUNIty Bank
 --->
 
 
-# Organizer<a name="Organizer"></a>
 
-The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
-<p>
-  <img style="float: left;" src="images/deakin2.png" width="200" >
-</p>
 
 # Are you competitive enough to participate? <a name="participate"></a>
 
@@ -157,6 +152,12 @@ JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX
 - Alternatively, you can  contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/).
 
 
+# Organizer<a name="Organizer"></a>
+
+The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
+<p>
+  <img style="float: left;" src="images/deakin2.png" width="200" >
+</p>
 
 
 

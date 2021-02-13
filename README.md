@@ -11,7 +11,7 @@ The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons charac
 
 
 # Table of Contents
-1. [Goal](#introduction)
+1. [About the task](#introduction)
 2. [Timeline](#Timeline)
 3. [Eligibility](#Eligibility)
 4. [Prizes and Sponsors](#Sponsors)
@@ -22,7 +22,7 @@ The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons charac
 9. [References](#References)
 10. [Acknowledgment](#Acknowledgment)
 
-# Goal <a name="introduction"></a>
+# About the task <a name="introduction"></a>
 
 As participants, your goal is to build a machine learning model to automatically identify the following Simpsons characters:
 

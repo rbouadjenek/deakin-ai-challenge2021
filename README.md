@@ -171,21 +171,18 @@ The **Deakin Simpsons Challenge 2021** is organized by the [School of Informatio
 
 # Acknowledgment<a name="Acknowledgment"></a>
 
+The Deakin Simpsons Challenge 2021 is organized by the following people:
 
 
-Technical design and development by:
+- **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Technical design, development, and data preparation
+- **Thuy Nguyen** - Organization and support 
 
-**Mohamed Reda Bouadjenek**
-
-**Lecturer of Applied Artificial Intelligence**
 
 **School of Information Technology, Faculty of Sci Eng & Built Env**
 
 **Deakin University**
 
 **Locked Bag 20000, Geelong, VIC 3220**
-
-**reda.bouadjenek@deakin.edu.au**
 
 **www.deakin.edu.au**
 <!---

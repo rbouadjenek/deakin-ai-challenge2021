@@ -19,7 +19,7 @@ The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons charac
 6. [Webinar](#Webinar)
 7. [Questions](#Questions)
 8. [References](#References)
-9. [Organizer](#Organizer)
+9. [Acknowledgment](#Acknowledgment)
 
 # About the task <a name="introduction"></a>
 
@@ -159,7 +159,7 @@ Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.ev
 
 
 
-# Organizer<a name="Organizer"></a>
+# Acknowledgment<a name="Acknowledgment"></a>
 
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
 <p>

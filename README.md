@@ -156,7 +156,7 @@ Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.ev
 # References<a name="References"></a>
 
 - [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
-
+- [Image data preprocessing](https://keras.io/api/preprocessing/image/).
 
 
 # Acknowledgment<a name="Acknowledgment"></a>

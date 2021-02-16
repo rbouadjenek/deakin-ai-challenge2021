@@ -154,6 +154,12 @@ Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.ev
 - Alternatively, you can  contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/).
 
 
+# References<a name="References"></a>
+
+- [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
+
+
+
 # Organizer<a name="Organizer"></a>
 
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
@@ -161,17 +167,7 @@ The **Deakin Simpsons Challenge 2021** is organized by the [School of Informatio
   <img style="float: left;" src="images/deakin2.png" width="200" >
 </p>
 
-
-
-# References<a name="References"></a>
-
-- [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
-
-
-
-# Acknowledgment<a name="Acknowledgment"></a>
-
-The **Deakin Simpsons Challenge 2021** is organized by the following people:
+The following people are involved:
 
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Technical design, development, and data preparation.

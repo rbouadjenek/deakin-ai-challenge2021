@@ -18,9 +18,8 @@ The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons charac
 5. [Participate](#participate)
 6. [Webinar](#Webinar)
 7. [Questions](#Questions)
-8. [Organizer](#Organizer)
-9. [References](#References)
-10. [Acknowledgment](#Acknowledgment)
+8. [References](#References)
+9. [Organizer](#Organizer)
 
 # About the task <a name="introduction"></a>
 

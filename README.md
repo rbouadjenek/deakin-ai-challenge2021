@@ -170,7 +170,7 @@ The **Deakin Simpsons Challenge 2021** is organized by the [School of Informatio
 The following people are involved:
 
 
-- **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Technical design, development, and data preparation.
+- **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
 - **Thuy Nguyen** - Organization and support.
 
 

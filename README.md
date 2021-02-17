@@ -107,7 +107,12 @@ The competition is open to all Deakin's students enrolled in a course within the
 
 # Prizes and Sponsors<a name="Sponsors"></a>
 
-The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). The prizes will be distributed among the participants as follows:
+The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD1,000** funded by [Deakin University CommUNIty Bank](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). 
+
+<img style="float: left;" src="images/DUCB_logo.png"  width="200" >
+
+
+The prizes will be distributed among the participants as follows:
 
 - The 1st Place receives a non-cash prize equivalent of **AUD500**.
 - The 2nd Place receives a non-cash prize equivalent of **AUD300**.

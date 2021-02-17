@@ -7,22 +7,22 @@
   <img src="images/Simpsons_cast2.png">
 </p>
 
-The aim of the **Deakin Simpsons challenge 2021** is to identify Simpsons characters individually from images using  machine learning/deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills. 
+The **Deakin Simpsons challenge 2021** is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning/deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
+
 
 
 # Table of Contents
-1. [Technical goal](#introduction)
+1. [About the task](#introduction)
 2. [Timeline](#Timeline)
 3. [Eligibility](#Eligibility)
 4. [Prizes and Sponsors](#Sponsors)
-5. [Organizer](#Organizer)
-6. [Participate](#participate)
-7. [Webinar](#Webinar)
-8. [Questions](#Questions)
-9. [References](#References)
-10. [Acknowledgment](#Acknowledgment)
+5. [Participate](#participate)
+6. [Webinar](#Webinar)
+7. [Questions](#Questions)
+8. [References](#References)
+9. [Acknowledgment](#Acknowledgment)
 
-# Technical goal <a name="introduction"></a>
+# About the task <a name="introduction"></a>
 
 As participants, your goal is to build a machine learning model to automatically identify the following Simpsons characters:
 
@@ -131,7 +131,7 @@ Follow these steps:
 1. Register to the [CodaLab](https://competitions.codalab.org/accounts/signup/?next=/) platform, then register to the competition on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5).
 3. You can participate individually or in a team. There cannot be more than 3 students in a team **(all team members need to register to the competition)**.
 4. To find team members, you can post a message on the discussion forum on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
-5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork) and make it **private**. Then, click here to open the Notebook in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
+5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork) and make it **private**. Then, click [here to open the Notebook in Google Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
 6. Just follow the instructions!
 
 We wish you all the best!
@@ -140,7 +140,9 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX:XX PM. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts. Register for the Webinar at: XXXXX
+JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+
+Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!
 
 
 
@@ -152,38 +154,31 @@ JOIN the **Deakin Simpsons Challenge 2021** Webinar on XXX, March XX, 2021 at XX
 - Alternatively, you can  contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/).
 
 
-# Organizer<a name="Organizer"></a>
+# References<a name="References"></a>
+
+- [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
+- [Image data preprocessing](https://keras.io/api/preprocessing/image/).
+
+
+# Acknowledgment<a name="Acknowledgment"></a>
 
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
 <p>
   <img style="float: left;" src="images/deakin2.png" width="200" >
 </p>
 
+The following people are involved:
 
 
-# References<a name="References"></a>
+- **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
+- **Thuy Nguyen** - Organization and support.
 
-- [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
-
-
-
-# Acknowledgment<a name="Acknowledgment"></a>
-
-
-
-Technical design and development by:
-
-**Mohamed Reda Bouadjenek**
-
-**Lecturer of Applied Artificial Intelligence**
 
 **School of Information Technology, Faculty of Sci Eng & Built Env**
 
 **Deakin University**
 
 **Locked Bag 20000, Geelong, VIC 3220**
-
-**reda.bouadjenek@deakin.edu.au**
 
 **www.deakin.edu.au**
 <!---

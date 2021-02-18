@@ -90,6 +90,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Timeline <a name="Timeline"></a>
 - `15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- `16.03.21:` Join the Webinar at 5:30 PM to review procedures and for a live Q&A session.
 - `15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
 - `22.05.21:` Last Shot & Contest End.
 - `23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).

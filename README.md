@@ -139,7 +139,7 @@ This competition serves many purposes:
 - Second, it is a channel for problem-solving and brainstorming by probing the multitude of crowdsourced solutions to a problem.
 - Third, this competition is an opportunity to push boundaries and encourage creativity among the best and the brightest in AI. 
 - Fourth, the experience you get is invaluable in preparing you to understand what goes into finding feasible solutions for big data.
-- Finally, in addition to the non-cash award that you will gain if you are on the podium (among the three winners), the school official award that will be given to you provides an invaluable recognition for the challenging work you will have achieved.  In particular, the award can raise your credibility as a job seeker because you will be viewed differently in the job market and, as a result,  you will be in a better position to receive more job offers.
+- Finally, in addition to the non-cash award that you will gain if you are on the podium (among the three winners), the school official award that will be given to you provides an invaluable recognition for the challenging work you will have achieved.  In particular, the award can raise your credibility as a PhD scholarship applicant or as a job seeker because your application will be viewed differently other applicants and, as a result, you will be in a better position to receive more scholarship offers or job offers.
 
 
 # Are you competitive enough to participate? <a name="participate"></a>

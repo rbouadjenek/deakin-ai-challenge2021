@@ -16,11 +16,12 @@ The **Deakin Simpsons challenge 2021** is a computer vision competition for whic
 2. [Timeline](#Timeline)
 3. [Eligibility](#Eligibility)
 4. [Prizes and Sponsors](#Sponsors)
-5. [Participate](#participate)
-6. [Webinar](#Webinar)
-7. [Questions](#Questions)
-8. [References](#References)
-9. [Acknowledgment](#Acknowledgment)
+5. [Benefit](#Benefit)
+6. [Participate](#participate)
+7. [Webinar](#Webinar)
+8. [Questions](#Questions)
+9. [References](#References)
+10. [Acknowledgment](#Acknowledgment)
 
 # About the task <a name="introduction"></a>
 
@@ -128,7 +129,7 @@ The prize money for the challenge is funded by [Deakin University CommUNIty Bank
 <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
 --->
 
-# Why should I participate?
+# Why should I participate? <a name="Benefit"></a>
 
 Often, students work theoretically and experiment with data themselves. They rarely get the chance to practice before working with data in the real-world. With this competition, you have the opportunity to interact and compete in solving real-life problems.
 

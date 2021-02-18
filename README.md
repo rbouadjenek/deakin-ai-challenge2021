@@ -129,7 +129,7 @@ The prize money for the challenge is funded by [Deakin University CommUNIty Bank
 <img style="float: left;" src="https://cia.communityenterprisefoundation.com.au/Program/GetLogo/20">
 --->
 
-# Why should I participate? <a name="Benefit"></a>
+# Why should you participate? <a name="Benefit"></a>
 
 Often, students work theoretically and experiment with data themselves. They rarely get the chance to practice before working with data in the real-world. With this competition, you have the opportunity to interact and compete in solving real-life problems.
 

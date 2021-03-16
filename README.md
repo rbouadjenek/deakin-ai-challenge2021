@@ -7,7 +7,7 @@
   <img src="images/Simpsons_cast.png">
 </p>
 
-The **Deakin Simpsons challenge 2021** is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning/deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
+The **Deakin Simpsons challenge 2021** is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning and deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
 
 
 
@@ -159,10 +159,12 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+<s>JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.</s>
 
-Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!
+<s>Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!</s>
 
+
+[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/SzysnTDdbbtbNLGbvINSjb88X1y_ESVse8woSYXSkM7OnZAjHe3irgO4SXAzLN2v.jH8n1TFQw1ee3cln)
 
 
 

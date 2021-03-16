@@ -164,7 +164,7 @@ We wish you all the best!
 <s>Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!</s>
 
 
-[Link to the Webinar!](https://deakin.zoom.us/rec/share/SzysnTDdbbtbNLGbvINSjb88X1y_ESVse8woSYXSkM7OnZAjHe3irgO4SXAzLN2v.jH8n1TFQw1ee3cln)
+[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/SzysnTDdbbtbNLGbvINSjb88X1y_ESVse8woSYXSkM7OnZAjHe3irgO4SXAzLN2v.jH8n1TFQw1ee3cln)
 
 
 

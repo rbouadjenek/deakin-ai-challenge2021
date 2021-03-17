@@ -159,10 +159,12 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+<s>JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.</s>
 
-Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!
+<s>Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!</s>
 
+
+[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/SzysnTDdbbtbNLGbvINSjb88X1y_ESVse8woSYXSkM7OnZAjHe3irgO4SXAzLN2v.jH8n1TFQw1ee3cln)
 
 
 

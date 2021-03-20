@@ -57,7 +57,7 @@ if __name__=="__main__":
             image_size = f.attrs['image_size']
         except:
             image_size = np.array(model_loaded.layers[0].input_shape[1:3])
-
+    print('Size of inputs images: ' + str(image_size))
     # Reading test images.    
     files = []
     images = []

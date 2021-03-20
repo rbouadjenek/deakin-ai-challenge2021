@@ -42,9 +42,21 @@ if __name__=="__main__":
     # Loading the model.
     model = 'model.h5'
     with h5py.File(model, mode='r') as f:
-        class_names = f.attrs['class_names']
-        image_size = f.attrs['image_size']
         model_loaded = hdf5_format.load_model_from_hdf5(f)
+        print(model_loaded.summary())
+        try:
+            class_names = f.attrs['class_names']
+        except: 
+            class_names = ['abraham_grampa_simpson', 'apu_nahasapeemapetilon', 
+            'bart_simpson', 'charles_montgomery_burns', 'chief_wiggum', 'comic_book_guy', 
+            'edna_krabappel', 'homer_simpson', 'kent_brockman', 'krusty_the_clown', 
+            'lenny_leonard', 'lisa_simpson', 'marge_simpson', 'mayor_quimby', 
+            'milhouse_van_houten', 'moe_szyslak', 'ned_flanders', 'nelson_muntz', 
+            'principal_skinner', 'sideshow_bob']
+        try:
+            image_size = f.attrs['image_size']
+        except:
+            image_size = np.array(model_loaded.layers[0].input_shape[1:3])
 
     # Reading test images.    
     files = []

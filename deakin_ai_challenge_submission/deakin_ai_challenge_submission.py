@@ -54,9 +54,13 @@ if __name__=="__main__":
             'milhouse_van_houten', 'moe_szyslak', 'ned_flanders', 'nelson_muntz', 
             'principal_skinner', 'sideshow_bob']
         try:
-            image_size = f.attrs['image_size']
+        	image_size = f.attrs['image_size']
         except:
-            image_size = np.array(model_loaded.layers[0].input_shape[0][1:3])
+            input_shape = model_loaded.layers[0].input_shape
+            if isinstance(input_shape, list):
+                image_size = np.array(input_shape[0][1:3])
+            else:
+                image_size = np.array(input_shape[1:3])
     print('Size of inputs images: ' + str(image_size))
     # Reading test images.    
     files = []

@@ -1,5 +1,5 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#  Copyright (c) 2020. Reda Bouadjenek, Deakin University                      +
+#  Copyright (c) 2021. Reda Bouadjenek, Deakin University                      +
 #     Email:  reda.bouadjenek@deakin.edu.au                                    +
 #                                                                              +
 #  Licensed under the Apache License, Version 2.0 (the "License");             +
@@ -53,14 +53,11 @@ if __name__=="__main__":
             'lenny_leonard', 'lisa_simpson', 'marge_simpson', 'mayor_quimby', 
             'milhouse_van_houten', 'moe_szyslak', 'ned_flanders', 'nelson_muntz', 
             'principal_skinner', 'sideshow_bob']
-        try:
-        	image_size = f.attrs['image_size']
-        except:
-            input_shape = model_loaded.layers[0].input_shape
-            if isinstance(input_shape, list):
-                image_size = np.array(input_shape[0][1:3])
-            else:
-                image_size = np.array(input_shape[1:3])
+
+
+    input_shape = model_loaded.input_shape
+    image_size = np.array(input_shape[1:3])
+
     print('Size of inputs images: ' + str(image_size))
     # Reading test images.    
     files = []

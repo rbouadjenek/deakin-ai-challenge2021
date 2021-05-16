@@ -89,7 +89,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 7. `Submission:` The seventh and last step will take you through the submission process.
 
 # Timeline <a name="Timeline"></a>
-- `15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>
 - <s>`16.03.21:` [Join the Webinar at 5:30 PM to review procedures and for a live Q&A session](https://deakin-simpsons-challenge-2021.eventbrite.com).</s>
 - `15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
 - `22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).

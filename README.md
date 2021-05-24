@@ -92,7 +92,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>
 - <s>`16.03.21:` [Join the Webinar at 5:30 PM to review procedures and for a live Q&A session](https://deakin-simpsons-challenge-2021.eventbrite.com).</s>
 - <s>`15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.</s>
-- `22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).
+- <s>`22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).</s>
 - `23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
 - `05.06.21:` Report & Code Due.
 - `17.06.21:` Winners Announcement.

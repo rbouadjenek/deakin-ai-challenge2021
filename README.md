@@ -94,7 +94,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - <s>`15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.</s>
 - <s>`22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).</s>
 - <s>`23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).</s>
-- `05.06.21:` Report & Code Due.
+- <s>`05.06.21:` Report & Code Due.</s>
 - `17.06.21:` Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>

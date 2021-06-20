@@ -95,7 +95,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 - <s>`22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).</s>
 - <s>`23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).</s>
 - <s>`05.06.21:` Report & Code Due.</s>
-- `17.06.21:` Winners Announcement.
+- <s>`17.06.21:` Winners Announcement.</s>
 
 # Eligibility<a name="Eligibility"></a>
 

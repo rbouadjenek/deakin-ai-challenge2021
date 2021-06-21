@@ -194,6 +194,8 @@ The following people are involved:
 
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
+- **Peter Eklund** - technical design, and support to students.
+- **Sunil Aryal** - technical design, and support to students.
 - **Thuy Nguyen** - Organization and support.
 
 

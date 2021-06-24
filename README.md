@@ -13,15 +13,16 @@ The **Deakin Simpsons challenge 2021** is a computer vision competition for whic
 
 # Table of Contents
 1. [About the task](#introduction)
-2. [Timeline](#Timeline)
-3. [Eligibility](#Eligibility)
-4. [Prizes and Sponsors](#Sponsors)
-5. [Benefit](#Benefit)
-6. [Participate](#participate)
-7. [Webinar](#Webinar)
-8. [Questions](#Questions)
-9. [References](#References)
-10. [Acknowledgment](#Acknowledgment)
+2. [Winners](#winners)
+3. [Timeline](#Timeline)
+4. [Eligibility](#Eligibility)
+5. [Prizes and Sponsors](#Sponsors)
+6. [Benefit](#Benefit)
+7. [Participate](#participate)
+8. [Webinar](#Webinar)
+9. [Questions](#Questions)
+10. [References](#References)
+11. [Acknowledgment](#Acknowledgment)
 
 # About the task <a name="introduction"></a>
 
@@ -87,6 +88,16 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 5. `Traning:` The fifth step consists of starting the training process.
 6. `Monitoring:` The sixth step consists of monitoring the traning process to investigate possible overfitting.
 7. `Submission:` The seventh and last step will take you through the submission process.
+
+# Winners <a name="winners"></a>
+
+The winners of the competition are:
+1. **ndhuynh** (Accuracy = 0.997) [report] [code]
+2. **peterja555** (Accuracy = 0.994) [report] [code]
+3. **Bevan** (Accuracy = 0.991) [report] [code]
+4. **Doh! Data** (Accuracy = 0.987) [report] [code]
+5. **vinayakam19** (Accuracy = 0.982) [report] [code]
+6. **Data Destroyers** (Accuracy = 0.965) [report] [code]
 
 # Timeline <a name="Timeline"></a>
 - <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>

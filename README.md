@@ -92,12 +92,12 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 # Winners <a name="winners"></a>
 
 The winners of the competition are:
-1. **ndhuynh** (Accuracy = 0.997) [report] [code]
-2. **peterja555** (Accuracy = 0.994) [report] [code]
-3. **Bevan** (Accuracy = 0.991) [report] [code]
-4. **Doh! Data** (Accuracy = 0.987) [report] [code]
-5. **vinayakam19** (Accuracy = 0.982) [report] [code]
-6. **Data Destroyers** (Accuracy = 0.965) [report] [code]
+1. **ndhuynh** (Accuracy = 0.997) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/ndhuynh.pdf)] [[code](https://github.com/parkerhuynh/Simpson-Charater-Detection)] 🥇
+2. **peterja555** (Accuracy = 0.994) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/peterja555.pdf)] [[code](https://github.com/pjasyd/Deakin_AI_Challenge_Code)] 🥈
+3. **Bevan** (Accuracy = 0.991) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Bevan.pdf)] [[code](https://github.com/bevanyeah/deakin-simpsons-challenge2021)] 🥉
+4. **Doh! Data** (Accuracy = 0.987) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Doh!%20Data.pdf)] [[code](https://github.com/joshanthony/simpsons-machine-learning-challenge)] 🎁
+5. **vinayakam19** (Accuracy = 0.982) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/vinayakam19.pdf)] [[code](https://github.com/Vinayakam19/Deakin-Simpsons-Challenge---2021)]
+6. **Data Destroyers** (Accuracy = 0.965) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Data%20Destroyers%20.pdf)] [[code](https://github.com/SamAnast/Deakin-AI-Challenge)]
 
 # Timeline <a name="Timeline"></a>
 - <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>

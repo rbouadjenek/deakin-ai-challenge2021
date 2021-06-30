@@ -198,7 +198,7 @@ We wish you all the best!
 
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/).
 
-<p align="center">
+<p align="left">
   <img src="images/deakin2.png" width="200" >
 </p>
 

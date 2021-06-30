@@ -217,11 +217,7 @@ The following people are involved:
 **Locked Bag 20000, Geelong, VIC 3220**
 
 **www.deakin.edu.au**
-<!---
-<p>
-  <img style="float: left;" src="images/deakin2.png" width="200" >
-</p>
---->
+
 
 
 <p>

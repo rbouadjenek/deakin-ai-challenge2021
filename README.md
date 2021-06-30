@@ -199,12 +199,12 @@ We wish you all the best!
 The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/).
 
 <p align="center">
-  <img style="float: left;" src="images/deakin2.png" width="200" >
+  <img src="images/deakin2.png" width="200" >
 </p>
 
 
 
-<p>reda-The following people are involved:</p>
+<p>The following people are involved:</p>
 
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.

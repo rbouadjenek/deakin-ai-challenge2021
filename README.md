@@ -132,7 +132,7 @@ The prizes will be distributed among the participants as follows:
 - The 1st Place receives a non-cash prize equivalent of **AUD500**.
 - The 2nd Place receives a non-cash prize equivalent of **AUD300**.
 - The 3rd Place receives a non-cash prize equivalent of **AUD200**.
--  <img src="https://github.com/rbouadjenek/rbouadjenek.github.io/raw/master/img/new_icon.gif" > The 4th Place will also receive a non-cash prize equivalent of **AUD100** funded by the School of IT.
+-  <img src="images/new_icon.gif" > The 4th Place will also receive a non-cash prize equivalent of **AUD100** funded by the School of IT.
 
 
 <!---

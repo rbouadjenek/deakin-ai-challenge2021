@@ -223,6 +223,6 @@ The **Deakin Simpsons Challenge 2021** is organized by the [School of Informatio
 
 
 
-<p>
-  <a href="https://twitter.com/DeakinAI2021" > <img style="float: left;" src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>
+<p align="left">
+  <a href="https://twitter.com/DeakinAI2021" > <img src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>
 </p>

@@ -1,0 +1,31 @@
+# This CITATION.cff file was created by reda bouadjenek (v 0.1.0).
+# Gem: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
+# CFF: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
+
+cff-version: 1.2.0
+message: If you want to cite this competition please cite it using the following metadata
+title: Deakin Simpsons Challenge 2021
+abstract: The Deakin Simpsons challenge 2021 is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning and deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
+authors:
+- family-names: Bouadjenek
+  given-names: Mohamed Reda
+  orcid: https://orcid.org/0000-0003-1807-430X
+  affiliation: Deakin University, Australia
+- name: The Deakin Simpsons Challenge 2021 Citation File Format
+keywords:
+- challenge 
+- competition 
+- machine-learning 
+- computer-vision 
+- deep-learning 
+- keras 
+- classification 
+- simpsons 
+- multiclass-classification 
+- deakin-university 
+- deakin
+version: 0.1.0
+date-released: 2021-05-01
+license: Apache-2.0
+repository-artifact: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
+repository-code: https://github.com/rbouadjenek/deakin-simpsons-challenge2021

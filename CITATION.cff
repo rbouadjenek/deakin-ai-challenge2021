@@ -1,30 +1,32 @@
-# This CITATION.cff file was created by reda bouadjenek (v 0.1.0).
-# Gem: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
-# CFF: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
-
 cff-version: 1.2.0
-message: If you want to cite this competition please cite it using the following metadata
-title: Deakin Simpsons Challenge 2021
-abstract: The Deakin Simpsons challenge 2021 is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning and deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
+message: "If you use this software, please cite it as below."
 authors:
-- family-names: Bouadjenek
-  given-names: Mohamed Reda
-  orcid: https://orcid.org/0000-0003-1807-430X
-  affiliation: Deakin University, Australia
-keywords:
-- challenge 
-- competition 
-- machine-learning 
-- computer-vision 
-- deep-learning 
-- keras 
-- classification 
-- simpsons 
-- multiclass-classification 
-- deakin-university 
-- deakin
-version: 0.1.0
-date-released: 2021-05-01
-license: Apache-2.0
-repository-artifact: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
-repository-code: https://rbouadjenek.github.io/deakin-simpsons-challenge2021/
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bot"
+  given-names: "Hew"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "My Research Software"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Lisa"
+    given-names: "Mona"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Bot"
+    given-names: "Hew"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "My awesome research software"
+  issue: 1
+  volume: 1
+  year: 2021

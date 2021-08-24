@@ -9,4 +9,13 @@ title: "Deakin Simpsons Challenge 2021"
 version: 0.1.0
 date-released: 2021-05-01
 url: "https://rbouadjenek.github.io/deakin-simpsons-challenge2021/"
-
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Bouadjenek
+    given-names: Mohamed Reda
+    orcid: https://orcid.org/0000-0003-1807-430X
+    affiliation: Deakin University, Australia
+  journal: "Deakin University"
+  title: "Deakin Simpsons Challenge 2021"
+  year: 2021
